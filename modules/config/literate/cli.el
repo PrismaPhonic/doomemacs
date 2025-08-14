@@ -1,6 +1,7 @@
 ;;; config/literate/cli.el -*- lexical-binding: t; -*-
 
 (load! "autoload")
+(load! "config")
 
 (defun +literate-add-installed-org-to-load-path-h ()
   "Use the straight-installed, not bundled Org."

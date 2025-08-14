@@ -108,7 +108,6 @@
              (- (float-time) +literate-tangle--async-proc-start-time))
     (setq +literate-tangle--async-proc nil))))
 
-
 ;;
 ;;; Commands
 
